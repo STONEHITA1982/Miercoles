@@ -1,0 +1,29 @@
+h1{
+    color:rgb(15, 240, 165);
+}
+h2{
+    color:rgb(140, 148, 143)
+}
+p{
+    color:blueviolet
+}
+h3{
+    color:rgb(255, 200, 127)
+}
+h4{
+    color:blue
+}
+#encabezado-seis{ 
+    color:brown;
+    }
+.text-danger{
+    color:rgb(255, 0, 64);
+}
+.text-green{
+    color:green;
+}
+body{
+    background-color: whitesmoke;
+}
+
+
